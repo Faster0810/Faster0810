@@ -87,11 +87,9 @@ Currently focused on building strong fundamentals through projects and continuou
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faster2506&theme=tokyo-night&hide_border=true"/>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Faster2506&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Faster2506&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
+</p>
 ---
 
 ## 📫 Connect With Me
