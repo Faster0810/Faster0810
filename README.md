@@ -12,7 +12,7 @@ Currently focused on building strong fundamentals through projects and continuou
 
 <p>
 <a href="https://linkedin.com/in/md-owaish-raza-ansari-430734372"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/Faster0810"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/Faster2506"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="mailto:owaishansari1803@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -72,11 +72,11 @@ Currently focused on building strong fundamentals through projects and continuou
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Faster0810&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Faster2506&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faster0810&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faster2506&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=Faster0810&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Faster2506&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -84,27 +84,27 @@ Currently focused on building strong fundamentals through projects and continuou
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faster0810&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faster2506&theme=tokyo-night&hide_border=true"/>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Faster0810&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Faster2506&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 ---
 
 ## 📫 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/md-owaish-raza-ansari-430734372
-- GitHub: https://github.com/Faster0810
+- GitHub: https://github.com/Faster2506
 - Email: owaishansari1803@gmail.com
 
 ---
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Faster0810&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Faster2506&style=for-the-badge)
 
 **Code • Learn • Build • Repeat 🚀**
 
